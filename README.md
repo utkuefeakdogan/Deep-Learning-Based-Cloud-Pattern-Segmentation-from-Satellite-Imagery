@@ -65,3 +65,11 @@ jupyter notebook u2net.ipynb
 ---
 
 ## 📄 Citation
+Akdoğan, U.E., Alagöz, F. (2024). Deep Learning-Based Cloud Pattern Segmentation
+from Satellite Imagery. Boğaziçi University.
+
+---
+
+## 📝 License
+
+Licensed under the Apache License 2.0. See [LICENSE](./LICENSE) for details.
